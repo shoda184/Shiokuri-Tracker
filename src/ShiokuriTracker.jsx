@@ -256,4 +256,4 @@ const styles = {
   }
 };
 
-export default RemittanceTracker;
+export default ShiokuriTracker;
