@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/shiokuri-tracker/",
+    "build": "vite build --base=/Shiokuri-Tracker/",
     "lint": "eslint .",
     "preview": "vite preview"
   },
